@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/SeanCole02/MACE?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vytalow?style=social)](https://twitter.com/vytalow)
 
-<b>MACE</b> is a goal-oriented autonomous AI system that aims to abstract and implement high-level modularity for continuous coding to achieve user-defined goals and accelerating development workflows.
+<b>MACE</b> is a goal-oriented autonomous AI system that aims to abstract and implement a high-level of modularity for continuous coding to achieve user-defined goals and accelerate development workflows.
 
 ## 🤖 Getting Started
 Alter the config file found in `/config_files/config.cfg`.<br>
